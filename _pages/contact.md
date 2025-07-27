@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Email: zishen.liu@connect.polyu.hk, lzsh1454@163.com
+
 <!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
