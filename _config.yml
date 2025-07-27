@@ -28,11 +28,11 @@ author:
   location         : "Hong Kong" #"China Beijing"
   employer         : 
   uri              : https://zishenliu729.github.io/
-  email            : "zishen.liu@connect.polyu.hk" 
+  email            : zishen.liu@connect.polyu.hk
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : https://scholar.google.com/citations?user=uZud5FMAAAAJ&hl=zh-CN
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
