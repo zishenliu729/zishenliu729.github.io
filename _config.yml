@@ -24,11 +24,11 @@ author:
   avatar           : "ZishenLiu.jpg"
   name             : "Zishen Liu (刘子深)"
   pronouns         : # example: "she/her"  
-  bio              : "Beijing Institute of Technology"
-  location         : "China Beijing"
+  bio              : "The Hong Kong Polytechnic University" #"Beijing Institute of Technology"
+  location         : "Hong Kong" #"China Beijing"
   employer         : 
   uri              : https://zishenliu729.github.io/
-  email            : "zishen_liu@bit.edu.cn" 
+  email            : "zishen.liu@connect.polyu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
