@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Email
-======
-* zishen.liu@connect.polyu.hk
-* lzsh1454@163.com
+  <p style="font-weight: 900;">Email</p>
+  <ul>
+    <li> zishen.liu@connect.polyu.hk </li>
+    <li> lzsh1454@163.com </li>
+  </ul>
 
 <!-- Education
 ======
